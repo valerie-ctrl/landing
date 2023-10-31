@@ -1,0 +1,14 @@
+.btn-red {
+  display: inline-block;
+  padding: 18px 63px;
+  border-radius: 2rem;
+  background-color: rgba(244, 102, 0, 0.983);
+  text-decoration: none;
+  color: white;
+  box-shadow: 1px 1px 3px #3e2206;
+}
+
+.btn-red:hover {
+  background-color: rgba(152, 68, 9, 0.876);
+  box-shadow: 1px 1px 3px #ad6b29ef;
+}

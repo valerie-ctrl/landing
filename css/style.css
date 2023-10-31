@@ -1,0 +1,35 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@700');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400&display=swap');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v6.1.2/css/all.css');
+
+/* Components */
+@import url(components/banner.css);
+@import url(components/button.css);
+@import url(components/container.css);
+@import url(components/card.css);
+@import url(components/footer.css);
+
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: Open Sans;
+}
+
+h1, h2, h3, h4 {
+  font-family: Rubik, monospace;
+}
+
+a {
+  text-decoration: none;
+}
+/* Custom design below! */
+
+h2 {
+  text-align: center;
+  color: rgb(168, 71, 2);
+  font-size: 3rem;
+}
